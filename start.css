@@ -1,0 +1,167 @@
+ /* .main {
+    /* background: gainsboro; */
+    /* height: 1900px; */
+*/
+
+span.text-dargen {
+    color: red;
+}
+
+.twobox{
+    padding-top: 100px;
+}
+span.themes {
+    color: black;
+    font-size: 20px;
+    
+}
+
+span.code {
+    color: black;
+    font-size: 20px;
+}
+span.guides {
+    color: black;
+    font-size: 20px;
+}
+span.premium {
+    color: black;
+    font-size: 20px;
+}
+.twobox1{
+    margin-top:110px;
+}
+.all {
+    /* background: aqua; */
+    /* height: 30px; */
+    margin-top: 20px;
+    /* color: #000; */
+    /* background-color: aliceblue; */
+    /* background-color: white; */
+}
+.html {
+    /* background: antiquewhite; */
+    margin-top: 20px;
+    margin-left: 130px;
+    box-shadow: -1px 1px 3px -1px;
+}
+.btn-group>.btn:not(:last-child):not(.dropdown-toggle) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-right: 1px solid #0000002b;
+}
+
+.catogory {
+    background: white;
+    height: 79px;
+    margin-top: 50PX;
+}
+.btn-group, .btn-group-vertical {
+    position: relative;
+    display: inline-flex;
+    vertical-align: middle;
+    /* background: beige; */
+}
+
+button.btn.btn-sm {
+    background: #ffffff;
+    width: 72px;
+    height: 42px;
+    box-shadow: 1px -1px 3px -1px;
+}
+
+.\32 threebox {
+    /* background: aqua; */
+    /* height: 300px; */
+    margin-top: 50px;
+}
+
+.\33 box2 {
+    /* margin: 10px; */
+    margin-top: 50px;
+}
+
+.\32 threebox2 {
+    margin-top: 50px;
+    height: 300px;
+
+    
+}
+.\33 box {
+    height: 350px;
+}
+
+h5 {
+    margin-top: 20px;
+}
+
+::before {
+    margin-left: 25px;
+}
+
+
+
+.in{
+    width: 60%;
+    height: 38px;
+    margin-top: 20px;
+}
+.foo {
+    background-color: white;
+    padding: 20px;
+    height: 300px;
+    box-shadow: -1px -1px 4px -2px;
+    position: relative;
+    top: -37px;
+}
+
+
+.footer {
+    margin-top: 100px;
+}
+
+.cop {
+    text-align: center;
+}
+
+h2 {
+    /* margin-top: 50px; */
+    font-size: 25px;
+    padding: 30px;
+
+}
+
+.sub {
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+.mmm {
+    /* background: black; */
+    height: 281px;
+    margin-top: -151px;
+}
+.foo h2 {
+    margin-left: -35px;
+}
+
+.back {
+    background: #f8f9fa;
+    position: relative;
+    top: -37px;
+}
+
+.boxone {
+    margin-top: 25px;
+   
+}
+.boxtwo {
+    margin-top: 25px;
+    
+}
+.boxthree{
+    margin-top: 25px;
+  
+}.button-one {
+    margin-top: 22px;
+}
